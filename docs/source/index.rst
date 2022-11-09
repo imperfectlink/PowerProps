@@ -25,4 +25,6 @@ Discord
    :hidden:
    :caption: Overview
    
+   installation
+   
    

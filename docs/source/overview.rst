@@ -2,7 +2,7 @@ Overview
 ====
 | 
 
-PowerProps is a Blender addon that helps you create smarter more meaningful objects by adding and managing custom properties and functionality.
+PowerProps is a Blender addon that helps you create smarter more meaningful objects by managing and applying custom properties and functionality.
 
 |
 

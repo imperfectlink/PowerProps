@@ -25,5 +25,5 @@ Create preloaded material nodes to control material properties on a per object b
 
 |
 
-Bevel modifier gif
+.. image:: img/DriveProp.gif
 Quickly create a connection to drive attributes with custom properties.

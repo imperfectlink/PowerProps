@@ -7,13 +7,11 @@ PowerProps is a Blender addon that helps you create smarter more meaningful obje
 |
 
 .. image:: img/PowerPropsJLG.gif
-
 Put all of your useful properties in one place. 
 
 |
-
-Copy color gif
-Batch Add, Remove and Copy custom properties or values. 
+.. image:: img/CopyToSameProp.gif
+Batch Add, Remove and Copy custom properties or values. You can even choose to only copy a to objects that have that property.
 
 |
 

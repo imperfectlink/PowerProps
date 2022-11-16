@@ -6,7 +6,8 @@ PowerProps is a Blender addon that helps you create smarter more meaningful obje
 
 |
 
-JLG image
+.. image:: img/PowerPropsJLG.gif
+
 Put all of your useful properties in one place. 
 
 |

@@ -15,7 +15,7 @@ Batch Add, Remove and Copy custom properties or values. You can even choose to o
 
 |
 
-Select keycaps gif
+.. image:: img/SelectByValue.gif
 Select objects by matching properties and values. 
 
 |

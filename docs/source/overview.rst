@@ -20,7 +20,7 @@ Select objects by matching properties and values.
 
 |
 
-.. image:: img/BrickOffset
+.. image:: img/BrickOffset.gif
 Create preloaded material nodes to control material properties on a per object basis. 
 
 |

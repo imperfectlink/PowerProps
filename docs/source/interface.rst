@@ -47,6 +47,11 @@ Alt-clicking the Copy button will only copy the settings from the custom propert
 
 Select
 ----
+Clicking the Select button will select all visible objects that also contain the selected property. If you have two selected properties, it will select the objects that contain both properties.
+
+|
+
+Shift-clicking the Select button will select all visible objects that match the value of the selected property. With two selected properties, it will select the objects that match both values.
 
 |
 

@@ -1,11 +1,12 @@
-.. image:: img/Forklift_PowerProps.png
-
 PowerProps
+====
+
+.. image:: img/Forklift_PowerProps.png
 
 |
 
 Overview
-====
+~~~~
 | 
 
 PowerProps is a Blender addon that helps you create smarter more meaningful objects by managing and applying custom properties and functionality.

@@ -18,6 +18,9 @@ You can set soft limits to corral values within a certain range while still allo
 
 |
 
+
+~~~~
+
 The following three buttons require you to have a property selected using its adjacent checkbox to the left of the panel.
 
 |

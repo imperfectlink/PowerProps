@@ -1,7 +1,9 @@
+.. image:: img/PowerProps_Banner.png
+
+|
+
 Welcome to PowerProps!
 ====
-
-.. image:: img/PowerProps_Banner.png
 
 |
 

@@ -22,7 +22,7 @@ Clicking the New button will create a new custom property on your object and imm
 You can set soft limits to corral values within a certain range while still allowing the user to manually type in more extreme values. You may also want to set stepping and precision control and write a short description to help the user understand how to use the property. The checkbox at the bottom will allow you to do this to all selected objects at once. Shift-clicking the New button will have this option pre-enabled.
 
 |
-
+|
 
 ``The following three buttons require you to have a property selected using its adjacent checkbox to the left of the panel.``
 

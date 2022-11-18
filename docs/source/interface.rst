@@ -22,5 +22,18 @@ The following three buttons require you to have a property selected using its ad
 
 |
 
+Copy
+~~~~
 
+|
+
+Select
+~~~~
+
+|
+
+Remove
+~~~~
+
+|
 

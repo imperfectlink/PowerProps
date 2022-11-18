@@ -26,10 +26,15 @@ Discord
 .. toctree::
    :maxdepth: 4
    :hidden:
-   :caption: Overview
+   :caption: PowerProps
    
    overview
    installation
-   interface
    
+   .. toctree::
+   :maxdepth: 4
+   :hidden:
+   :caption: Interface
+   
+   interface
    

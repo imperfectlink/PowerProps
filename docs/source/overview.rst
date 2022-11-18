@@ -1,3 +1,5 @@
+.. image:: img/Forklift_PowerProps.png
+
 Overview
 ====
 | 

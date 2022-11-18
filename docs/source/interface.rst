@@ -41,6 +41,10 @@ Control-clicking the Copy button will not only copy the selected custom properti
 
 |
 
+Alt-clicking the Copy button will only copy the settings from the custom property and only affect objects with a corresponding property.
+
+|
+
 Select
 ----
 

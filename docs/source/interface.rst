@@ -57,6 +57,12 @@ Shift-clicking the Select button will select all visible objects that match the 
 
 Remove
 ----
+Clicking the Remove button will remove the selected custom properties from the active object.
 
 |
 
+Shift-clicking will remove the selected custom properties from all selected objects.
+
+|
+
+Control-clicking the Remove button will remove the drivers that depend on the selected properties.

@@ -29,7 +29,15 @@ You can set soft limits to corral values within a certain range while still allo
 
 Copy
 ----
-Simply clicking the Copy button will copy selected custom properties and their current values from the active object to all other selected objects. Shift-clicking the Copy button will only copy the value of the custom property to objects that have the corresponding property while ignoring others.
+Simply clicking the Copy button will copy selected custom properties and their current values from the active object to all other selected objects. 
+
+|
+
+Shift-clicking the Copy button will only copy the value of the selected custom property to objects that have the corresponding property while ignoring others.
+
+|
+
+Control-clicking the Copy button will not only copy the selected custom properties and values but also discreetly copy their connected drivers so that destination objects have individual control.
 
 |
 

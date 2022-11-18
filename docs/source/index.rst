@@ -16,6 +16,8 @@ Requirements
 ~~~~
 **Blender 3.3 or newer**
 
+|
+
 Links
 ~~~~
 Gumroad

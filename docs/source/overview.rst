@@ -13,17 +13,17 @@ PowerProps is a Blender addon that helps you create smarter more meaningful obje
 
 |
 
+Store all of your all of your important properties on the object itself. 
 .. image:: img/PowerPropsJLG.gif
-Put all of your useful properties in one place. 
 
 |
 .. image:: img/CopyToSameProp.gif
-Batch Add, Remove and Copy custom properties or values. You can even choose to only copy a to objects that have that property.
+You can even choose to only copy values to objects that have that property while ignoring others.
 
 |
 
+Quickly select objects with matching properties and values.
 .. image:: img/SelectByValue.gif
-Select objects by matching properties and values. 
 
 |
 
@@ -32,5 +32,7 @@ Create preloaded material nodes to control material properties on a per object b
 
 |
 
+Right click to create a connection to drive attributes with custom properties.
 .. image:: img/DriveProp.gif
-Quickly create a connection to drive attributes with custom properties.
+
+|

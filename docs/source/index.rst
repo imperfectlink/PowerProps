@@ -31,7 +31,7 @@ Discord
    overview
    installation
    
-   .. toctree::
+.. toctree::
    :maxdepth: 4
    :hidden:
    :caption: Interface

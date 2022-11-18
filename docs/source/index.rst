@@ -25,6 +25,7 @@ Discord
    :hidden:
    :caption: Overview
    
+   overview
    installation
    todo
    

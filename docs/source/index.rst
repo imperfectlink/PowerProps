@@ -28,6 +28,5 @@ Discord
    
    overview
    installation
-   todo
    
    

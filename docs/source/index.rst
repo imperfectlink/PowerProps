@@ -1,7 +1,7 @@
 Welcome to PowerProps!
 ====
 
-.. image:: img/Forklift_PowerProps.png
+.. image:: img/PowerProps_Banner.png
 
 |
 

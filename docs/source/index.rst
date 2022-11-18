@@ -30,5 +30,6 @@ Discord
    
    overview
    installation
+   interface
    
    

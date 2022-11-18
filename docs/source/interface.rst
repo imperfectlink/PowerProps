@@ -51,7 +51,7 @@ Clicking the Select button will select all visible objects that also contain the
 
 |
 
-Shift-clicking the Select button will select all visible objects that match the value of the selected property. With two selected properties, it will select the objects that match both values.
+Shift-clicking the Select button will select all visible objects that match the value of the selected property. With two selected properties, it will select the objects that satisfy both values.
 
 |
 

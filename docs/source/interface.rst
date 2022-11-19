@@ -105,3 +105,10 @@ Shift-clicking will remove the selected custom properties from all selected obje
 |
 
 Control-clicking the Remove button will remove the drivers that depend on the selected properties.
+
+|
+
+Properties List
+~~~~
+
+

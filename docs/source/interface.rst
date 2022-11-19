@@ -59,11 +59,13 @@ You can set soft limits to corral values within a certain range while still allo
 Copy
 ----
 
-.. image:: img/Copy_MouseOver.jpg
-
 |
 
 Simply clicking the Copy button will copy selected custom properties and their current values from the active object to all other selected objects. 
+
+|
+
+.. image:: img/Copy_MouseOver.jpg
 
 |
 
@@ -82,11 +84,13 @@ Alt-clicking the Copy button will only copy the settings from the custom propert
 Select
 ----
 
-.. image:: img/Select_MouseOver.jpg
-
 |
 
 Clicking the Select button will select all visible objects that also contain the selected property. If you have two selected properties, it will select the objects that contain both properties.
+
+|
+
+.. image:: img/Select_MouseOver.jpg
 
 |
 
@@ -97,11 +101,13 @@ Shift-clicking the Select button will select all visible objects that match the 
 Remove
 ----
 
-.. image:: img/Remove_MouseOver.jpg
-
 |
 
 Clicking the Remove button will remove the selected custom properties from the active object.
+
+|
+
+.. image:: img/Remove_MouseOver.jpg
 
 |
 
@@ -116,11 +122,13 @@ Control-clicking the Remove button will remove the drivers that depend on the se
 Properties List
 ~~~~
 
-.. image:: img/Properties_List.jpg
-
 |
 
 The Properties List displays all the of the custom properties on the active object. The checkboxes allow you to select multiple custom properties to perform your Copy, Select or Remove actions.
+
+|
+
+.. image:: img/Properties_List.jpg
 
 |
 

@@ -143,14 +143,25 @@ Each custom property has its own dropdown that allows you to perform the actions
 Randomize
 ----
 
+|
+
 Clicking Randomize will invoke the redo panel in the bottom left of the 3d viewport that allows you to change variables for the randomize function such as the seed, the range and the objects that it is affecting.
 
 |
 
-.. image:: img/Randomize_dialogue.jpg
+.. image:: img/Randomize_Dialogue.jpg
 
 |
 
 Node
 ----
 
+|
+
+Clicking the Node option will create an Attribute node in the active material. This node is prepopulated with the information you need to use the custom attribute and you can access it in the Material Editor.
+
+|
+
+.. image:: img/Material_Attribute.jpg
+
+|

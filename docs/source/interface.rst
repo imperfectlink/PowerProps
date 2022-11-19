@@ -1,11 +1,11 @@
 Interface
 ====
 
-.. image:: img/PowerProps_Interface.jpg
+The PowerProps panel is simple yet it hides a lot of useful functionality on secondary layers. Mouse-over the buttons to view additional functions that they offer while holding a modifier key.
 
 |
 
-The PowerProps panel is simple yet it hides a lot of useful functionality on secondary layers. Mouse-over the buttons to view additional functions that they offer while holding a modifier key.
+.. image:: img/PowerProps_Interface.jpg
 
 |
 

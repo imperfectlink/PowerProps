@@ -40,7 +40,7 @@ Clicking the New button will create a new custom property on your object and imm
 
 |
 
-.. image:: img/NewMouseOver.jpg
+.. image:: img/New_MouseOver.jpg
 
 |
 

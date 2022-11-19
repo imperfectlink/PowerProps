@@ -20,7 +20,7 @@ First choose whether to view properties that are stored on the object or in obje
 
 |
 
-Actions
+Buttons
 ~~~~
 
 .. image:: img/Buttons.jpg
@@ -29,8 +29,6 @@ Actions
 
 New
 ----
-
-|
 
 .. image:: img/New_MouseOver.jpg
 
@@ -56,8 +54,6 @@ You can set soft limits to corral values within a certain range while still allo
 Copy
 ----
 
-|
-
 .. image:: img/Copy_MouseOver.jpg
 
 |
@@ -81,8 +77,6 @@ Alt-clicking the Copy button will only copy the settings from the custom propert
 Select
 ----
 
-|
-
 .. image:: img/Select_MouseOver.jpg
 
 |
@@ -97,8 +91,6 @@ Shift-clicking the Select button will select all visible objects that match the 
 
 Remove
 ----
-
-|
 
 .. image:: img/Remove_MouseOver.jpg
 

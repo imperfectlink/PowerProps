@@ -120,3 +120,11 @@ The Properties List displays all the of the custom properties on the active obje
 |
 
 Each custom property has its own dropdown that allows you to perform the actions above as well as edit the property itself, randomize the values within a range and create a material Attribute node within the active material that is preloaded with the relevant information to utilize the custom attribute.
+
+|
+
+.. image:: img/Attribute_Dropdown.jpg
+
+|
+
+

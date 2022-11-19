@@ -30,7 +30,7 @@ Buttons
 New
 ----
 
-Clicking the New button will create a new custom property on your object and immediately invoke the Edit Property dialogue which will allow you to set a type, give it a name, a default value and a range in which to operate in.
+Clicking the New button will create a new custom property on your object and immediately invoke the Edit Property dialog which will allow you to set a type, give it a name, a default value and a range in which to operate.
 
 |
 
@@ -69,7 +69,7 @@ Control-clicking the Copy button will not only copy the selected custom properti
 
 |
 
-Alt-clicking the Copy button will only copy the settings from the custom property and only affect objects with a corresponding property.
+Alt-clicking the Copy button will copy the property to objects that don't already have it and use the default value instead of the value on the active object.
 
 |
 
@@ -118,7 +118,7 @@ The Properties List displays all the of the custom properties on the active obje
 
 |
 
-Each custom property has its own dropdown that allows you to perform the actions above as well as edit the property itself, randomize the values within a range and create a material Attribute node within the active material that is preloaded with the relevant information to utilize the custom attribute.
+Each custom property has its own dropdown that allows you to perform the actions above as well as edit the property itself, randomize the values within a range and create a material Attribute node within the active material that is preloaded with the relevant information to utilize the custom property.
 
 |
 
@@ -129,7 +129,7 @@ Each custom property has its own dropdown that allows you to perform the actions
 Randomize
 ----
 
-Clicking Randomize will invoke the redo panel in the bottom left of the 3d viewport that allows you to change variables for the randomize function such as the seed, the range and the objects that it is affecting.
+Clicking Randomize will invoke the redo panel in the bottom left of the 3d viewport that allows you to change variables for the randomize function such as the seed, the range and the objects that it is affecting. Randomize is only available to properties with numeric values.
 
 |
 

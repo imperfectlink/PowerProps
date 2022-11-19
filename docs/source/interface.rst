@@ -3,19 +3,23 @@ Interface
 
 The PowerProps panel is simple yet hides a lot of useful functionality on secondary layers. Mouse-over the buttons to view additional functions that they offer while holding a modifier key.
 
-.. image:: img/Location.jpg
-
 Location
 ~~~~
+
+.. image:: img/Location.jpg
+
+|
 
 First choose whether to view properties that are stored on the object or in object data. The typical use case will be on the object itself so that object data can be reused but you may occasionally have a reason to store custom properties in object data.
 
 |
 
-.. image:: img/Buttons.jpg
-
 Actions
 ~~~~
+
+.. image:: img/Buttons.jpg
+
+|
 
 New
 ----

@@ -1,6 +1,8 @@
 Interface
 ====
 
+|
+
 The PowerProps panel is simple yet it hides a lot of useful functionality on secondary layers. Mouse-over the buttons to view additional functions that they offer while holding a modifier key.
 
 |
@@ -12,11 +14,13 @@ The PowerProps panel is simple yet it hides a lot of useful functionality on sec
 Location
 ~~~~
 
-.. image:: img/Location.jpg
-
 |
 
 First choose whether to view properties that are stored on the object or in object data. The typical use case will be on the object itself so that object data can be reused but you may occasionally have a reason to store custom properties in object data.
+
+|
+
+.. image:: img/Location.jpg
 
 |
 
@@ -30,20 +34,21 @@ Buttons
 New
 ----
 
-.. image:: img/New_MouseOver.jpg
-
 |
 
 Clicking the New button will create a new custom property on your object and immediately invoke the Edit Property dialogue which will allow you to set a type, give it a name, a default value and a range in which to operate in.
 
 |
 
-.. image:: img/NewProperty.jpg
+.. image:: img/NewMouseOver.jpg
 
 |
 
-
 You can set soft limits to corral values within a certain range while still allowing the user to manually type in more extreme values. You may also want to set stepping and precision control and write a short description to help the user understand how to use the property. The checkbox at the bottom will allow you to do this to all selected objects at once. Shift-clicking the New button will have this option pre-enabled.
+
+|
+
+.. image:: img/NewProperty.jpg
 
 |
 

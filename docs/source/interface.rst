@@ -140,4 +140,17 @@ Each custom property has its own dropdown that allows you to perform the actions
 
 |
 
+Randomize
+----
+
+Clicking Randomize will invoke the redo panel in the bottom left of the 3d viewport that allows you to change variables for the randomize function such as the seed, the range and the objects that it is affecting.
+
+|
+
+.. image:: img/Randomize_dialogue.jpg
+
+|
+
+Node
+----
 

@@ -111,4 +111,8 @@ Control-clicking the Remove button will remove the drivers that depend on the se
 Properties List
 ~~~~
 
+.. image:: img/Properties_List.jpg
 
+|
+
+The Properties List displays all the of the custom properties on the active object. The checkboxes allow you to select multiple custom properties to perform your Copy, Select or Remove actions.

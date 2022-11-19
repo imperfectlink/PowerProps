@@ -29,6 +29,13 @@ Actions
 
 New
 ----
+
+|
+
+.. image:: img/New_MouseOver.jpg
+
+|
+
 Clicking the New button will create a new custom property on your object and immediately invoke the Edit Property dialogue which will allow you to set a type, give it a name, a default value and a range in which to operate in.
 
 |
@@ -48,6 +55,13 @@ You can set soft limits to corral values within a certain range while still allo
 
 Copy
 ----
+
+|
+
+.. image:: img/Copy_MouseOver.jpg
+
+|
+
 Simply clicking the Copy button will copy selected custom properties and their current values from the active object to all other selected objects. 
 
 |
@@ -66,6 +80,13 @@ Alt-clicking the Copy button will only copy the settings from the custom propert
 
 Select
 ----
+
+|
+
+.. image:: img/Select_MouseOver.jpg
+
+|
+
 Clicking the Select button will select all visible objects that also contain the selected property. If you have two selected properties, it will select the objects that contain both properties.
 
 |
@@ -76,6 +97,13 @@ Shift-clicking the Select button will select all visible objects that match the 
 
 Remove
 ----
+
+|
+
+.. image:: img/Remove_MouseOver.jpg
+
+|
+
 Clicking the Remove button will remove the selected custom properties from the active object.
 
 |

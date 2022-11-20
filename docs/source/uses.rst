@@ -1,7 +1,7 @@
 Common Use Cases
 ====
 
-Material
+Materials
 ~~~~
 
 Color

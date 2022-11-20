@@ -38,3 +38,9 @@ Discord
    
    interface
    
+.. toctree::
+   :maxdepth: 4
+   :hidden:
+   :caption: Workflow
+   
+   uses

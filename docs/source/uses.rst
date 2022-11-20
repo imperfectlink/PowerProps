@@ -1,8 +1,6 @@
 Common Use Cases
 ====
 
-|
-
 Materials
 ~~~~
 

@@ -40,3 +40,8 @@ Constraints
 ~~~~
 
 Right click on a value field in a constraint and choose Drive With Property. This will create a driver and a property that controls the corresponding value.
+
+Viewport Display Settings
+~~~~
+
+Right click on a display setting and choose Drive With Property.

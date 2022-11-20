@@ -17,4 +17,4 @@ Create a new property and click the dropdown on the right side of the property a
 Switch
 ----
 
-Create a new property and set the type to Integer. Use the material node to control any aspect of your material that requires 0/1 on/off switch.
+Create a new property and set its type to Integer. Use the material node to control any aspect of your material that requires 0/1 on/off switch.

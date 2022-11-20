@@ -35,3 +35,6 @@ Geometry Nodes
 ~~~~
 
 Connect the desired input value to the group input of your geometry nodes network. Right click on the new input in the geometry nodes modifier in the modifier properties and choose Drive With Property. 
+
+Constraints
+~~~~

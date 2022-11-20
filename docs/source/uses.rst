@@ -31,3 +31,5 @@ Right click on a value field in a modifier and choose Drive With Property. This 
 
 Geometry Nodes
 ~~~~
+
+Connect the desired input value to the group input of your geometry nodes network. Right click on the New input in the geometry nodes modifier in the modifier properties and choose Drive With Property. 

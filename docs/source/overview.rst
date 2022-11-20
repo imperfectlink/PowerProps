@@ -14,7 +14,7 @@ PowerProps is a Blender addon that helps you create smarter more meaningful obje
 Features
 ~~~~
 
-Store all of your all of your important properties on the object itself. 
+Store all of your all of your important properties on the object itself including (but not limited to) material controls, modifier settings and geometry nodes inputs.
 
 .. image:: img/PowerPropsJLG.gif
 

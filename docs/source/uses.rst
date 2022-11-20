@@ -9,8 +9,6 @@ Color
 
 Create a new property and set it to The Float Array type and Linear Color subtype. Next click the dropdown on the right side of the property and choose Node. Plug the new node into a color input in the material editor. You can now use this color control on any object that has this material applied as well as the custom property.
 
-|
-
 .. image:: img/Ducks.gif
 
 |

@@ -29,12 +29,12 @@ Create a new property and set the type to float array. Use this property anywher
 Modifiers
 ~~~~
 
-Right click on a value field in a modifier and choose Drive With Property. This will create a driver and a property that controls the corresponding value. For example controlling the size of a bevel. and the number of segments.
+Right click on a value field in a modifier and choose Drive With Property. This will create a driver and a property that controls the corresponding value. For example controlling the size number of segments in a bevel.
 
 Geometry Nodes
 ~~~~
 
-Connect the desired input value to the group input of your geometry nodes network. Right click on the new input in the geometry nodes modifier in the modifier properties and choose Drive With Property. 
+Connect the desired input value to the group input of your geometry nodes network. Right click on the new input in the geometry nodes modifier in the modifier properties and choose Drive With Property.
 
 Constraints
 ~~~~

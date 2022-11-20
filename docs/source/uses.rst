@@ -24,6 +24,8 @@ Vector
 
 Create a new property and set the type to float array. Use this property anywhere you need a vector in the material. For example to offset UV coordinates.
 
+``The following workflows require drivers and will need to be copied with Ctrl Click.```
+
 Modifiers
 ~~~~
 

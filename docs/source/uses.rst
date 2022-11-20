@@ -19,6 +19,8 @@ Switch
 
 Create a new property and set its type to Integer. Use the material node to control any aspect of your material that requires 0/1 on/off switch.
 
+.. image:: img/Switch.gif
+
 Vector
 ----
 

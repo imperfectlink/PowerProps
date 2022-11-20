@@ -22,7 +22,9 @@ Create a new property and set its type to Integer. Use the material node to cont
 Vector
 ----
 
-Create a new property and set the type to float array. Use this property anywhere you need a vector in the material. For example to offset UV coordinates.
+Create a new property and set the type to float array. Use this property anywhere you need a vector in the material. For example to offset UV coordinates when plugged into a mapping node.
+
+.. image:: img/VectorOffset.gif
 
 ``The following workflows require drivers and will need to be copied with Ctrl Click.``
 

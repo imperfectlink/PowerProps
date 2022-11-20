@@ -28,3 +28,6 @@ Modifiers
 ~~~~
 
 Right click on a value field in a modifier and choose Drive With Property. This will create a driver and a property that controls the corresponding value. For example controlling the size of a bevel. and the number of segments.
+
+Geometry Nodes
+~~~~

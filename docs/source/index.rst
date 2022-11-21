@@ -21,7 +21,7 @@ Links
 |
 BlenderMarket
 |
-Discord
+`Discord <https://discord.com/invite/xSj7jhRqRQ>`_
 
 .. toctree::
    :maxdepth: 4

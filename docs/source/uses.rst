@@ -18,6 +18,10 @@ Values
 
 Create a new property and click the dropdown on the right side of the property and choose Node. Plug the new node into a color input in the material editor. You can now use this property to control any aspect of the material that needs a 0-1 value.
 
+.. image:: img/ColorPalette.jpg
+
+|
+
 Switch
 ----
 

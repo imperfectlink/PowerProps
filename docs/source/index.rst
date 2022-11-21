@@ -11,7 +11,7 @@ PowerProps is a Blender addon that helps you create smarter more meaningful obje
 
 Requirements
 ~~~~
-**Blender 3.3 or newer**
+**Blender 3.2 or newer**
 
 |
 

@@ -19,7 +19,7 @@ Links
 ~~~~
 `Gumroad <https://bonjorno7.gumroad.com/l/powerprops>`_
 |
-BlenderMarket
+_`BlenderMarket <https://blendermarket.com/products/powerprops>`__
 |
 `Discord <https://discord.com/invite/xSj7jhRqRQ>`_
 

@@ -17,7 +17,7 @@ Requirements
 
 Links
 ~~~~
-Gumroad
+`Gumroad <https://bonjorno7.gumroad.com/l/powerprops>`_
 |
 BlenderMarket
 |
